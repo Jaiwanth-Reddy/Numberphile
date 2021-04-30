@@ -16,9 +16,7 @@ The ouput.txt files have the ouput along with some stats at the end, which are -
 The set of all exceptions.
 Distribution of steps taken by the numbers.
 
-# Summary of code output
-
-Output_for_3_digit_nos.txt
+# Summary of code output for 3 digits
 
 The set of 60 Numbers Which Do Not Follow The Rule Are:
 
@@ -27,7 +25,7 @@ The set of 60 Numbers Which Do Not Follow The Rule Are:
 Distribution of steps taken
 {2: 138, 3: 131, 4: 246, 5: 198, 6: 126}
 
-Output_for_4_digit_nos.txt
+# Summary of code output for 4 digits
 
 The set of 77 Numbers Which Do Not Follow The Rule Are:
 
