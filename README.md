@@ -42,3 +42,10 @@ Outputs first n terms of the sequence
 Numberphile link - https://www.youtube.com/watch?v=FGC5TdIiT9U
 
 OEIS link - https://oeis.org/A005132
+
+## 6. Parallelogram Primes
+
+Plots n terms of the A265326 sequence.
+
+OEIS - https://oeis.org/A265326
+Numberphile - Amazing Graphs - https://www.youtube.com/watch?v=pAMgUB51XZA
