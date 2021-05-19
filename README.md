@@ -50,3 +50,15 @@ Plots n terms of the A265326 sequence.
 OEIS - https://oeis.org/A265326
 
 Numberphile - Amazing Graphs - https://www.youtube.com/watch?v=pAMgUB51XZA
+
+## 7. Anti-Primes or highly composite numbers
+
+The three programs output n and do one of the following- 
+
+1. Outputs first n anti-primes. OEIS link - https://oeis.org/A002182
+
+2. Outputs first n anti-primes with their divisors. 
+
+3. Outputs number of divisors of first n anti-primes. OEIS link - https://oeis.org/A002183
+
+Numberphile link - https://www.youtube.com/watch?v=2JM2oImb9Qg
